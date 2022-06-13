@@ -2,7 +2,7 @@
 
 <img align="right" src="./image.png" width="300"/> 
 
-Me chamo Daniel Xavier, tenho 20 anos, moro em Natal-RN, sou Programador Full-Stack e atualmente sou desenvolvedor **Frontend** na HopeCloud.
+Me chamo Daniel Xavier, tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **Frontend**.
 
 ### ✨ Curiosidades
 
