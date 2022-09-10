@@ -2,13 +2,13 @@
 
 <img align="right" src="./image.png" width="300"/> 
 
-Me chamo Daniel Xavier, tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **Frontend**.
+Me chamo Daniel Xavier, tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em ReactJs e Laravel.
 
 ### ✨ Curiosidades
 
-- Além de Trabalho, Programar é Hobbie
+- Além de Trabalho, Programar é hobbie
 - Café me da sono
-- Cuido de três "cactozinho"
+- Cuido de três "cactozinho" e de uma calopsita chamado Chefinho
 - As vezes faço trocadilhos / piadas ruins.
 - Comida preferida: Pudim e Lasanha.
 
