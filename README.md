@@ -32,7 +32,7 @@ Acredito fortemente que a insistencia não te leva a perfeição, mas te ajuda s
 
 ## Optionals
 
-[![My settings](https://img.shields.io/badge/My%20Settings-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic&url=https://gist.github.com/DanielXavierJob/6dfb8b848398586853a5377f06621472)]()
+[![My settings](https://img.shields.io/badge/My%20Settings-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic)](https://github.com/DanielXavierJob/DanielXavierJob/blob/main/settings.json)
 
 ## 📫 Status
 
