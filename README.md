@@ -29,6 +29,11 @@ Acredito fortemente que a insistencia não te leva a perfeição, mas te ajuda s
 [![PHP](https://img.shields.io/badge/PHP-6fa8dc?style=for-the-badge&logo=php&logoColor=white&style=plastic)]()
 [![C#](https://img.shields.io/badge/CSharp-E10098?style=for-the-badge&logo=csharp&logoColor=white&style=plastic)]()
 
+
+## Optionals
+
+[![My settings](https://img.shields.io/badge/My%20Settings-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic&url=https://gist.github.com/DanielXavierJob/6dfb8b848398586853a5377f06621472)]()
+
 ## 📫 Status
 
 ![DanielXavierJob github stats](https://github-readme-stats.vercel.app/api?username=DanielXavierJob&hide=[%22issues%22]&show_icons=true)
