@@ -20,7 +20,7 @@ Me chamo Daniel Xavier, tenho 20 anos, moro em Natal-RN, sou Programador e atual
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic)]()
 [![C#](https://img.shields.io/badge/CSharp-E10098?style=for-the-badge&logo=csharp&logoColor=white&style=plastic)]()
 [![Next.Js](https://img.shields.io/badge/Next.Js-B10398?style=for-the-badge&logo=next.js&logoColor=white&style=plastic)]()
-[![Nest.Js](https://img.shields.io/badge/Nest.Js-B10398?style=for-the-badge&logo=nest.js&logoColor=white&style=plastic)]()
+[![NestJs](https://img.shields.io/badge/NestJs-red?style=for-the-badge&logo=nestjs&logoColor=white&style=plastic)]()
 ## 📫 Status
 
 ![DanielXavierJob github stats](https://github-readme-stats.vercel.app/api?username=DanielXavierJob&hide=[%22issues%22]&show_icons=true)
