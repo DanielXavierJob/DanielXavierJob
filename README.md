@@ -30,7 +30,7 @@ Acredito fortemente que a insistencia não te leva a perfeição, mas te ajuda s
 [![C#](https://img.shields.io/badge/CSharp-E10098?style=for-the-badge&logo=csharp&logoColor=white&style=plastic)]()
 
 
-## Optionals
+## 📋 Optionals
 
 [![My settings](https://img.shields.io/badge/My%20Settings-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic)](https://github.com/DanielXavierJob/DanielXavierJob/blob/main/settings.json)
 
