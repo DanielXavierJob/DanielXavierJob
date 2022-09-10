@@ -1,8 +1,12 @@
-# Olá Devs 👋
+# Olá Devs, tudo bem? 👋
 
 <img align="right" src="./image.png" width="300"/> 
 
-Me chamo Daniel Xavier, tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em ReactJs e Laravel.
+## Me chamo Daniel Xavier
+
+tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em ReactJs e Laravel. Me entendo como programador desde os 14 anos de idade e sou apaixonado em estudar sobre as inovações do mundo, entre elas a minha profissão! Programar. 
+
+Acredito fortemente que a insistencia não te leva a perfeição, mas te ajuda ser melhor a cada tentativa! Então nunca deixe de tentar (Daniel conselheiro kkk)
 
 ### ✨ Curiosidades
 
