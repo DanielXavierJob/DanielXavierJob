@@ -28,7 +28,10 @@ Acredito fortemente que a insistencia não te leva a perfeição, mas te ajuda s
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=plastic)]()
 [![PHP](https://img.shields.io/badge/PHP-6fa8dc?style=for-the-badge&logo=php&logoColor=white&style=plastic)]()
 [![C#](https://img.shields.io/badge/CSharp-E10098?style=for-the-badge&logo=csharp&logoColor=white&style=plastic)]()
-
+[![Docker](https://img.shields.io/badge/Docker-E10098?style=for-the-badge&logo=docker&logoColor=white&style=plastic)]()
+[![HTML](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html&logoColor=white&style=plastic)]()
+[![CSS3](https://img.shields.io/badge/css-2986cc?style=for-the-badge&logo=css&logoColor=white&style=plastic)]()
+[![VB](https://img.shields.io/badge/vb-5E5C5C?style=for-the-badge&logo=.net&logoColor=F7DF1E&style=plastic)]()
 
 ## 📋 Optionals
 
