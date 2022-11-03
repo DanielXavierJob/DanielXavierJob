@@ -46,4 +46,4 @@ Acredito fortemente que a insistencia não te leva a perfeição, mas te ajuda s
 
 ## 📫 Status
 
-![DanielXavierJob github stats](https://github-readme-stats.vercel.app/api?username=DanielXavierJob&hide=[%22issues%22]&show_icons=true)
+![DanielXavierJob github stats](https://github-readme-stats.vercel.app/api?username=danielxavierjob&show_icons=true&count_private=true&theme=dracula)
