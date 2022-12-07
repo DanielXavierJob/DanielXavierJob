@@ -4,19 +4,19 @@
 
 ## Me chamo Daniel Xavier
 
-tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em ReactJs e Laravel. Me entendo como programador desde os 14 anos de idade e sou apaixonado em estudar sobre as inovações do mundo, entre elas a minha profissão! Programar. 
+tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em NextJs, NestJs e Laravel. Me entendo como programador desde os 14 anos de idade e sou apaixonado em estudar sobre as inovações do mundo, entre elas a minha profissão! Programar. 
 
-Possuo 13 certificados de cursos em programação, logo em breve estarei postando meu portfolio
+Possuo 13 certificados de cursos em programação, sou professor autônomo de Programação, ofereço diversos tipos de cursos e suportes.
 
-Acredito fortemente que a insistencia não te leva a perfeição, mas te ajuda ser melhor a cada tentativa! Então nunca deixe de tentar (Daniel conselheiro kkk)
+"Seja livre sem tirar a liberdade do outro"
 
 ### ✨ Curiosidades
 
 - Além de Trabalho, Programar é hobbie
 - Café me da sono
-- Cuido de três "cactozinho" e de uma calopsita chamado Chefinho
-- As vezes faço trocadilhos / piadas ruins.
-- Comida preferida: Pudim e Lasanha.
+- Tenho uma calopsita chamado Chefinho
+- Passo a maior parte do meu dia fazendo planejamentos, grades de estudos (para mim e meus alunos) e programando.
+- Amo se vestir com roupas formais.
 
 ## 📋 Skills
 
