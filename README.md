@@ -4,7 +4,11 @@
 
 ## Me chamo Daniel Xavier
 
-tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em NextJs, NestJs e Laravel. Me entendo como programador desde os 14 anos de idade e sou apaixonado em estudar sobre as inovações do mundo, entre elas a minha profissão! Programar. 
+⏩ + 6 years Dev Frontend & Backend.
+
+☕ Nunca deixe de lutar!
+
+📋 tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em NextJs, NestJs e Laravel. Me entendo como programador desde os 14 anos de idade e sou apaixonado em estudar sobre as inovações do mundo, entre elas a minha profissão! Programar. 
 
 Possuo 13 certificados de cursos em programação, sou professor autônomo de Programação, ofereço diversos tipos de cursos e suportes.
 
