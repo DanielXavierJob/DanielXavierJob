@@ -13,13 +13,17 @@
 
 **About Me!**
 
-- 👨🏽‍💻 Currently full-stack developer
+- 👨‍💻 Currently full-stack Developer
+- 🧠 21 years
+- 👣 7 years programmer's
+- 👨‍🎓 Studying Bachelor of Computer Science
+- 🏆 Working at the multi-national Montenegro Contabilidade
 - 🌱 15 certificates 
   - 1 from course participation in Harvard University
   - 1 from Udemy
   - 2 from 5CTA (5th area telematics center)
   - 11 from Bradesco Foundation
-- 💬 Ask me something? I also work as a teacher
+- 👨‍🏫 Ask me something? I also work as a teacher
 - 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com).
 
 <br />
