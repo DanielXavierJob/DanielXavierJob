@@ -288,17 +288,20 @@
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">TROPHYS</p>
 
+<h3 align="center">TROPHYS</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DanielXavierJob&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" /> </p>
-<br /><br />
+  <img src="https://github-profile-trophy.vercel.app/?username=DanielXavierJob&no-bg=true&no-frame=true&theme=juicyfresh" /> 
+</p>
+
+<br />
+<br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br /><br />
+<h3 align="center">STATISTICS</h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielXavierJob&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielXavierJob&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=DanielXavierJob&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielXavierJob&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br />
