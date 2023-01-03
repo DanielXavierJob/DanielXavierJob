@@ -25,7 +25,7 @@
   - 11 from Bradesco Foundation
 - 👨‍🏫 Ask me something? I also work as a teacher
 - 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com).
-
+- 🤖 If you want to buy me a coffee, in the description say a reference so I can add you to sponsors on my github
 <br />
 <br />
 
