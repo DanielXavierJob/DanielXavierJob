@@ -1,53 +1,309 @@
-# Olá Devs, tudo bem? 👋
+<h2 title="hehehe"> Hey 👋, I'm Daniel!</h2>
+<p>
+<a href="https://www.linkedin.com/in/daniel-xavier-579315206">
+  <img align="left" alt="Daniel's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/daniofc_f/">
+  <img align="left" alt="Daniel's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+</p>
+<br />
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-<img align="right" src="./image.png" width="300"/> 
+**About Me!**
 
-## Me chamo Daniel Xavier
+- 👨🏽‍💻 Currently full-stack developer
+- 🌱 14 certificates (1 from Harvard, 2 from 5CTA (5th area telematics center) and 11 from Bradesco Foundation)
+- 💬 Ask me something? I also work as a teacher
+- 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com).
 
-⏩ + 6 years Dev Frontend & Backend.
 
-☕ Nunca deixe de lutar!
 
-📋 tenho 20 anos, moro em Natal-RN, sou Programador e atualmente sou desenvolvedor **full-stack** trabalhando mais em NextJs, NestJs e Laravel. Me entendo como programador desde os 14 anos de idade e sou apaixonado em estudar sobre as inovações do mundo, entre elas a minha profissão! Programar. 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/danielxavier"> 
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="danielxavierjob" />
+  </a>
+</p>
 
-Possuo 13 certificados de cursos em programação, sou professor autônomo de Programação, ofereço diversos tipos de cursos e suportes.
+<br />
+<br />
 
-"Seja livre sem tirar a liberdade do outro"
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br /><br />
 
-### ✨ Curiosidades
+<h3 align="center">Languages and Tools:</h3>
 
-- Além de Trabalho, Programar é hobbie
-- Café me da sono
-- Tenho uma calopsita chamado Chefinho
-- Passo a maior parte do meu dia fazendo planejamentos, grades de estudos (para mim e meus alunos) e programando.
-- Amo se vestir com roupas formais.
+<p align="center"> 
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
+    alt="androidstudio"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg"
+    alt="apache"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+    alt="bash"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    alt="bootstrap"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+    alt="c"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    alt="csharp"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    alt="css3"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+    alt="docker"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
+    alt="firebase"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+    alt="git"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"
+    alt="gitlab"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg"
+    alt="graphql"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"
+    alt="heroku"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    alt="html5"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+    alt="java"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+    alt="jquery"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+    alt="laravel"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+    alt="linux"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    alt="mysql"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg"
+    alt="nestjs"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+    alt="nextjs"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+    alt="photoshop"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    alt="php"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+    alt="postgresql"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+    alt="python"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg"
+    alt="sequelize"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"
+    alt="ubuntu"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://github.com/DanielXavierJob" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original-wordmark.svg"
+    alt="xamarin"
+    width="40"
+    height="40"
+  />
+</a>
 
-## 📋 Skills
+</p>
+<br /><br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">TROPHYS</p>
 
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
-[![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=plastic)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&style=plastic)]()
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style=plastic)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)]()
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=plastic)]()
-[![Next.Js](https://img.shields.io/badge/Next.Js-B10398?style=for-the-badge&logo=next.js&logoColor=white&style=plastic)]()
-[![NestJs](https://img.shields.io/badge/NestJs-red?style=for-the-badge&logo=nestjs&logoColor=white&style=plastic)]()
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&style=plastic)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=plastic)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic)]()
-[![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic)]()
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&style=plastic)]()
-[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&style=plastic)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=plastic)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic)]()
-[![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=plastic)]()
 
-## 📋 Optionals
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DanielXavierJob&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"> </p>
+<br /><br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br /><br />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielXavierJob&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielXavierJob&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![My settings](https://img.shields.io/badge/My%20Settings-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=plastic)](https://github.com/DanielXavierJob/DanielXavierJob/blob/main/settings.json)
 
-## 📫 Status
-
-![DanielXavierJob github stats](https://github-readme-stats.vercel.app/api?username=danielxavierjob&show_icons=true&count_private=true&theme=dracula)
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
