@@ -18,7 +18,8 @@
 - 💬 Ask me something? I also work as a teacher
 - 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com).
 
-
+<br />
+<br />
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/danielxavier"> 
@@ -26,7 +27,6 @@
   </a>
 </p>
 
-<br />
 <br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br /><br />
@@ -284,13 +284,15 @@
 </a>
 
 </p>
-<br /><br />
+
+<br />
+<br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">TROPHYS</p>
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DanielXavierJob&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=DanielXavierJob&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" /> </p>
 <br /><br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br /><br />
