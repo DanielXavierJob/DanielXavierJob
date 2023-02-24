@@ -25,7 +25,7 @@
   - 11 from Bradesco Foundation
 - 👨‍🏫 Ask me something? I also work as a teacher
 - 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com).
-- 🤖 If you want to buy me a coffee, in the description say a reference so I can add you to sponsors on my github
+- 🤖 See my portfolio! [Click me to redirect](https://portfolio-daniel-xavier.vercel.app/)
 <br />
 <br />
 
@@ -323,6 +323,3 @@
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">SPONSORS OF BUY ME A COFFE</h3>
-<p align="left"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> I buy me a coffe 🤣</p>  <br />
