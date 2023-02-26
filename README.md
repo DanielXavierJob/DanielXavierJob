@@ -28,7 +28,6 @@
 - 🤖 See my portfolio! [Click me to redirect](https://portfolio-daniel-xavier.vercel.app/)
 <br />
 <br />
-[![Sponsor DanielXavierJob](https://github.com/sponsors/DanielXavierJob/button)](https://github.com/sponsors/DanielXavierJob)
 
 
 
