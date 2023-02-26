@@ -28,14 +28,11 @@
 - 🤖 See my portfolio! [Click me to redirect](https://portfolio-daniel-xavier.vercel.app/)
 <br />
 <br />
+[![Sponsor DanielXavierJob](https://github.com/sponsors/DanielXavierJob/button)](https://github.com/sponsors/DanielXavierJob)
 
-<p align="center">
-  <iframe src="https://github.com/sponsors/DanielXavierJob/card" title="Sponsor DanielXavierJob" height="225" width="600" style="border: 0;"></iframe>
-</p>
+
 
 <br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br /><br />
 
 <h3 align="center">Languages and Tools:</h3>
 
