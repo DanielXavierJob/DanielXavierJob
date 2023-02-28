@@ -16,7 +16,7 @@
 - 👨‍💻 Currently full-stack Developer
 - 🧠 21 years
 - 👣 8 years programmer's
-- 🏆 Working at the multi-national Montenegro Contabilidade
+- 🏆 Studying programming forever
 - 🌱 15 certificates 
   - 1 from course participation in Harvard University
   - 1 from Udemy
