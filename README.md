@@ -28,6 +28,26 @@
 <br />
 <br />
 
+**Projects online**
+
+[Portfolio](https://portfolio-daniel-xavier.vercel.app/) (Open source)
+
+[Motive me](https://motive-me.vercel.app/) (Open source)
+
+[Youtube Clone](https://studying-project-youtube.vercel.app/) (Open source)
+
+[Cards NLW Copa personalizado](https://studying-cards-nlw-copa.vercel.app) (Open source)
+
+[PDF Make Viewer](https://pdfmake-viewer.vercel.app) (Open source)
+
+[Dark context App](https://dark-context-react.vercel.app) (Open source)
+
+[Game memory](https://studying-memory-game.vercel.app) (Open source)
+
+[Emoji with hands cam](https://studying-rendering-hands-js.vercel.app) (Open source)
+ 
+[Game snake apple](https://studying-snake-game-html-js.vercel.app) (Open source)
+
 
 
 <br />
