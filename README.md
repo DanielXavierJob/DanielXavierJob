@@ -32,7 +32,7 @@
 
 [Portfolio](https://portfolio-daniel-xavier.vercel.app/) (Open source)
 
-[Motive me](https://motive-me.vercel.app/) (Open source)
+[Motive me](https://motiveme.online) (Open source)
 
 [Youtube Clone](https://studying-project-youtube.vercel.app/) (Open source)
 
