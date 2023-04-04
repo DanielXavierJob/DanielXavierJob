@@ -32,6 +32,8 @@
 
 [Portfolio](https://portfolio-daniel-xavier.vercel.app/) (Open source)
 
+[Mario run](https://mario-running-five.vercel.app/) (Open source)
+
 [Motive me](https://motiveme.online) (Open source)
 
 [Youtube Clone](https://studying-project-youtube.vercel.app/) (Open source)
