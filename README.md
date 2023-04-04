@@ -32,6 +32,8 @@
 
 [Portfolio](https://portfolio-daniel-xavier.vercel.app/) (Open source)
 
+[Game Shadow dog](https://gaming-shadow-dog.vercel.app/) (Open Source) - in development
+
 [Mario run](https://mario-running-five.vercel.app/) (Open source)
 
 [PB Template NextJs](https://pb-next-13.vercel.app/) (Private source)
