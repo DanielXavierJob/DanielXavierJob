@@ -17,7 +17,8 @@
 - 🧠 21 years
 - 👣 8 years programmer's
 - 🏆 Studying programming forever
-- 🌱 15 certificates 
+- 🌱 16 certificates 
+  - 1 from Jira & Concluence   
   - 1 from course participation in Harvard University
   - 1 from Udemy
   - 2 from 5CTA (5th area telematics center)
