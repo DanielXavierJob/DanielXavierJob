@@ -31,7 +31,7 @@
 
 **Projects online**
 
-[Portfolio](https://portfolio-daniel-xavier.vercel.app/) (Open source)
+[Portfolio](https://daniel-xavier.vercel.app/) (Open source)
 
 [Game Shadow dog](https://gaming-shadow-dog.vercel.app/) (Open Source) - in development
 
