@@ -17,12 +17,12 @@
 - 🧠 21 years
 - 👣 8 years programmer's
 - 🏆 Studying programming forever
-- 🌱 16 certificates 
+- 🌱 18 certificates 
   - 1 from Jira & Concluence   
   - 1 from course participation in Harvard University
   - 1 from Udemy
   - 2 from 5CTA (5th area telematics center)
-  - 11 from Bradesco Foundation
+  - 13 from Bradesco Foundation
 - 👨‍🏫 Ask me something? I also work as a teacher
 - 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com).
 - 🤖 See my portfolio! [Click me to redirect](https://portfolio-daniel-xavier.vercel.app/)
