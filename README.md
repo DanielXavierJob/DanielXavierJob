@@ -24,8 +24,8 @@
   - 2 from 5CTA (5th area telematics center)
   - 13 from Bradesco Foundation
 - 👨‍🏫 Ask me something? I also work as a teacher
-- 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com).
-- 🤖 See my portfolio! [Click me to redirect](https://portfolio-daniel-xavier.vercel.app/)
+- 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com)
+- 🤖 See my portfolio! [Click me to redirect](https://daniel-xavier.vercel.app)
 <br />
 <br />
 
