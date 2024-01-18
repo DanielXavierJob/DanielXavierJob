@@ -1,104 +1,61 @@
 {
-  // Demais configurações
-  "workbench.colorTheme": "GitHub Dark Dimmed",
-  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Min Dark",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.rulers": [80,120],
   "workbench.startupEditor": "newUntitledFile",
-  "explorer.compactFolders": false,
   "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
   "workbench.editor.labelFormat": "short",
-  "extensions.ignoreRecommendations": true,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "never",
-  "breadcrumbs.enabled": true,
-  "editor.parameterHints.enabled": false,
-  "editor.formatOnSave": true,
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx"
-  },
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-  "javascript.suggest.autoImports": true,
-  "typescript.suggest.autoImports": true,
-  "cSpell.userWords": [
-    "accounting",
-    "allow",
-    "Bearer",
-    "Casing",
-    "Consistent",
-    "Contract",
-    "createuser",
-    "declaration",
-    "Decorator",
-    "Decorators",
-    "equations",
-    "Equations",
-    "Implicit",
-    "Inject",
-    "microservices",
-    "skip",
-    "swagger",
-    "Switch",
-    "Synthetic"
-  ],
-  "git.autofetch": true,
-  "json.maxItemsComputed": 15000,
-  "terminal.integrated.profiles.windows": {
-    "PowerShell": {
-      "source": "PowerShell",
-      "icon": "terminal-powershell"
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+  // "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.statusBar.visible": false,
+  "window.titleBarStyle": "native",
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "trafficLightPosition": {
+      "x": 11,
+      "y": 10
     },
-    "Command Prompt": {
-      "path": [
-        "${env:windir}\\Sysnative\\cmd.exe",
-        "${env:windir}\\System32\\cmd.exe"
-      ],
-      "args": [],
-      "icon": "terminal-cmd"
-    },
-    "Git Bash": {
-      "source": "Git Bash"
-    },
-    "Ubuntu-18.04 (WSL)": {
-      "path": "C:\\Windows\\System32\\wsl.exe",
-      "args": [
-        "-d",
-        "Ubuntu-18.04"
-      ]
-    }
+    "frame": false
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "terminal.integrated.automationProfile.linux": "Ubuntu-18.04 (WSL)",
-  "json.schemas": [],
-  "cSpell.language": "pt-BR",
-  "terminal.integrated.defaultProfile.linux": "bash",
-  "terminal.integrated.enableMultiLinePasteWarning": false,
-  "[typescriptreact]": {
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.header": {
+    "height": 35
+  },
+  "apc.font.family": "JetBrains Mono",
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".pane-body": "padding: 8px",
+    ".pane-header": "padding: 0 8px",
+    ".split-view-view:first-child .pane-header": "display: none !important",
+    ".monaco-list-row": "border-radius: 4px",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none"
+  },
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, package-log*",
+    "tailwind.config*": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontSize": 14,
+  "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "git.confirmSync": false,
-  "prettier.requireConfig": true,
-  "prettier.useEditorConfig": true,
-  "[typescript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
-  },
-  "javascript.preferences.quoteStyle": "single",
-  "typescript.preferences.quoteStyle": "single",
-  "githubPullRequests.pullBranch": "never",
-  "remote.SSH.remotePlatform": {
-    "192.168.226.16": "linux"
-  },
-  "git.ignoreRebaseWarning": true,
-  "githubPullRequests.createOnPublishBranch": "never",
-  "diffEditor.ignoreTrimWhitespace": false,
-  "files.exclude": {
-    "**/.next": true,
-    "**/.vscode": true,
-    "**/node_modules": true
-  },
-  "editor.fontFamily": "'Fira Code'",
-"editor.fontLigatures": true,
-"editor.minimap.enabled": false
 }
