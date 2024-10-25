@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Daniel!</h2>
+<h2 title="hehehe"> Olá 👋, sou o Daniel!</h2>
 <p>
 <a href="https://www.linkedin.com/in/daniel-xavier-579315206">
   <img align="left" alt="Daniel's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -11,21 +11,30 @@
 <br />
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/a5b500bfaec010f0589abfe4cadc91d0a75ec9cc9e43cc157189812092ae4ab7/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f6d696e6563726166742f696d616765732f662f66642f4e6574686572506f7274616c416e696d617465642e6769662f7265766973696f6e2f6c61746573743f63623d3230323030313132303030373436" />
 
-**About Me!**
+**Sobre mim!**
 
-- 👨‍💻 Currently full-stack Developer
-- 🧠 21 years
-- 👣 8 years programmer's
-- 🏆 Studying programming forever
-- 🌱 18 certificates 
-  - 1 from Jira & Concluence   
-  - 1 from course participation in Harvard University
-  - 1 from Udemy
-  - 2 from 5CTA (5th area telematics center)
-  - 13 from Bradesco Foundation
-- 👨‍🏫 Ask me something? I also work as a teacher
-- 📫 Email me at [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com)
-- 🤖 See my portfolio! [Click me to redirect](https://daniel-xavier.vercel.app)
+- 👨‍💻 Desenvolvedor Full-stack Pleno
+- 🧠 22 years
+- 👣 8 anos como programador!
+- 🏆 3x medalhista de bronze no esporte de Volei!
+- 🌱 22 certificates 
+  - Jira & Confluence   
+  - Introdução a Ciência da Computação
+  - Javascript Completo
+  - Linux & Joomla
+  - C# básico e avançado
+  - Ética no Desenvolvimento de Sistemas
+  - LGPD
+  - POO
+  - UML
+  - Combo de Inteligência Artificial
+  - Excel Básico
+  - Soft Skills com Portas dos Fundos
+  - Técnicas e Ferramentas para Projetos
+  - etc...
+- 👨‍🏫 Está procurando ajuda? Entre em contato comigo!
+- 📫 Meu e-mail é [danielxavier.job@gmail.com](mailto:danielxavier.job@gmail.com)
+- 🤖 Veja meu portfólio! [Click me to redirect](https://daniel-xavier.vercel.app)
 <br />
 <br />
 
@@ -59,7 +68,7 @@
 
 <br />
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Stacks:</h3>
 
 <p align="center"> 
 <a href="https://github.com/DanielXavierJob" target="_blank">
@@ -317,7 +326,7 @@
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">TROPHYS</h3>
+<h3 align="center">TROFÉUS</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DanielXavierJob&no-bg=true&no-frame=true&theme=juicyfresh" /> 
@@ -326,7 +335,7 @@
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">STATISTICS</h3>
+<h3 align="center">ESTATISTICAS</h3>
 <p align="center">
     <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api?username=DanielXavierJob&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielXavierJob&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
