@@ -1,1 +1,1 @@
-Desenvolvedor Full Stack Pleno na Intelup, CEO e Desenvolvedor da Loja do Dev, Fundador da Daniel's Programmer Service
+Construindo soluções completas com excelência, unindo habilidades de front-end e back-end para transformar desafios em inovação tecnológica de alto impacto.
